@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Positive*
+**Silent**
+_Learning Programming_
+__New to GitHub__
